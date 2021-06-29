@@ -14,12 +14,7 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
-
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+After confederation a military reserve for the defence of Canada was established in Niagara.  Camp Niagara in Niagara-on-the-Lake was used as a summer training grounds for infantry, cavalry, and artillery.  At the start of World War I in 1914 the Camp was used to train the Second Division of the Canadian Expeditionary Force. In 1917 the Camp was used to train a group of expatriate Poles and Polish Americans who were recruited to serve in the war. Over 22, 000 volunteers of the Polish diaspora from across Canada and the United States trained at Camp Niagara, known to them as Camp Kosciuszko.
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
