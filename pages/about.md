@@ -18,3 +18,4 @@ After confederation a military reserve for the defence of Canada was established
 
 Postcards of Niagara Camp were common.  Trainees at the camp would keep them as a souvenir, or write to their family and friends and provide them with a glimpse of their surroundings.  One such postcard reads "Here is where we live.  Are getting along fine.  Is...better than we thought it was.  We are learning something that is of some good to us.  Will write later.  My hand is shaky so my writing is frightful.  From Edwin".   
 
+{% include feature/item-figure.html objectid="item21" %}
